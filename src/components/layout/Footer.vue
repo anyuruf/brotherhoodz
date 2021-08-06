@@ -1,0 +1,10 @@
+<template>
+    <footer class="w-full items-center h-20  text-white bg-primary m-auto p-4">
+       <p class="w-full mx-auto text-center pt-2 text-cream">Copyright © 2021 Made with love by Iyit</p> 
+    </footer>
+</template>
+<script>
+export default {
+    name: 'Footer'
+}
+</script>
