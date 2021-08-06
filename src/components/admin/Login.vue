@@ -33,6 +33,6 @@
 <script>
 export default {
     name: 'Login',
-    props: ['email', 'password']
+    props: ['email', 'password', 'signIn']
 }
 </script>
